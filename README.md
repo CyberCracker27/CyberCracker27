@@ -53,7 +53,6 @@
   - TryHackMe  
   - PentesterLab  
 
----
 
 <!-- ================= CERTIFICATIONS ================= -->
 ## 🏆 Certifications
