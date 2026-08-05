@@ -52,7 +52,7 @@
 - Platforms:
   - TryHackMe  
   - PentesterLab  
-
+---
 
 <!-- ================= CERTIFICATIONS ================= -->
 ## 🏆 Certifications
@@ -63,7 +63,6 @@
 - HackerRank  
 
 ---
-
 
 <!-- ================= LEETCODE ================= -->
 ## 🧩 LeetCode Stats
@@ -94,7 +93,6 @@
 
 -->
 
----
 
 <!-- ================= CONTACT ================= -->
 ## 🌐 Connect With Me
