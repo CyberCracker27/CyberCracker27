@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=940&lines=whoami+%3D%3E+Gopikrishnan+S;Cyber+Security+Enthusiast+%7C+CSE+Student;Breaking+things+to+understand+them...;sudo+access+granted+%E2%9C%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Gopikrishnan+S;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;CSE+Student+%40+Dr.N.G.P+Institute+of+Technology;Breaking+things+to+understand+them+better" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,38 +13,23 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="45"/>
 </p>
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  root@kali:~# nmap -sV gopikrishnan.dev                  │
-│  Starting Nmap...                                        │
-│  PORT     STATE  SERVICE      VERSION                    │
-│  22/tcp   open   ssh          CyberSecurity-Engineer      │
-│  443/tcp  open   https        Full-Stack + Security       │
-│  1337/tcp open   pwn          CTF-Player                  │
-│  Status: Actively hunting vulnerabilities...              │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
 
-### 🧠 `> cat about_me.txt`
+## 🧑‍💻 About Me
 
-```yaml
-Name:        Gopikrishnan S
-Role:        Computer Science Engineering (Cyber Security) Student
-Location:    The Nilgiris / Coimbatore, India
-Focus:       Web Security | VAPT | Network Security | Malware Analysis
-Currently:   Interning @ Cyfotok Infosec — VAPT of web apps & networks
-Fun Fact:    I break code to understand how to protect it.
-```
+- 🎓 B.E Computer Science & Engineering (Cyber Security) — Dr.N.G.P Institute of Technology, Coimbatore
+- 🔐 Currently a **Cybersecurity Intern @ Cyfotok Infosec**, working on VAPT of web apps & networks
+- 🕵️ Interested in Ethical Hacking, Web Security, and Network Security
+- 🌱 Constantly self-learning new tools, CVEs, and attack techniques
+- ⚡ Fun fact: I break code to understand how to protect it
 
 ---
 
-### ⚔️ `> ls ./arsenal`
+## 🛠️ Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -69,22 +54,23 @@ Fun Fact:    I break code to understand how to protect it.
 
 ---
 
-### 🎯 `> ./run_exploits.sh --list-projects`
+## 🎯 Featured Projects
 
-```
-[+] Phishing Detection Tool
-    └─ ML-based phishing classifier (NLP + Random Forest) w/ Gmail API + Chrome Extension
+### 🐟 Phishing Detection Tool
+`Python` `Flask` `Scikit-learn` `Gmail API` `Chrome Extension`
+ML-based phishing classifier for emails and URLs using NLP and Random Forest, integrated with a Chrome Extension for real-time Gmail analysis.
 
-[+] SafeLab — Android File Security Analysis System
-    └─ Detects threats in APK / PDF / ZIP / image files via rule-based risk analysis
+### 📱 SafeLab — Android File Security Analysis System
+`Java` `Android Studio` `FileObserver` `APK Parser`
+Android app that detects security threats in APK, PDF, ZIP, and image files using rule-based risk analysis and real-time file monitoring.
 
-[+] Contact Management System
-    └─ Secure Flask + MySQL app w/ auth, per-user isolation & hashed credentials
-```
+### 📇 Contact Management System
+`Python` `Flask` `MySQL` `HTML/CSS/JS`
+Secure contact management web app with authentication, per-user data isolation, CRUD operations, and hashed credentials.
 
 ---
 
-### 📡 `> tracert my_progress`
+## 📡 Security Trackers
 
 <p align="center">
   <a href="https://tryhackme.com/p/CyberCracker27">
@@ -107,24 +93,24 @@ Fun Fact:    I break code to understand how to protect it.
 
 ---
 
-### 📊 `> whoami --stats`
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberCracker27&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberCracker27&theme=github-dark-green&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gopikrishnans07&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopikrishnans07&theme=github-dark-green&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCracker27&layout=compact&theme=chartreuse-dark&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopikrishnans07&layout=compact&theme=chartreuse-dark&hide_border=true" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberCracker27&theme=react-dark&hide_border=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopikrishnans07&theme=react-dark&hide_border=true" width="90%"/>
 </p>
 
 ---
 
-### 📜 `> cat certifications.log`
+## 📜 Certifications
 
 - 🛡️ Introduction to Cybersecurity
 - 🌐 Networking Basics
@@ -133,7 +119,7 @@ Fun Fact:    I break code to understand how to protect it.
 
 ---
 
-### 🔗 `> netstat --connections`
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:gopikrishnan2734@gmail.com">
@@ -154,11 +140,4 @@ Fun Fact:    I break code to understand how to protect it.
   <img src="https://komarev.com/ghpvc/?username=gopikrishnans07&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS" />
 </p>
 
-<div align="center">
-
-```
-[SYSTEM]: Connection established. Access granted.
-[STATUS]: Always learning. Always exploiting weaknesses (ethically).
-```
-
-</div>
+<p align="center"><i>Always learning. Always testing boundaries (ethically). 🔐</i></p>
