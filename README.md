@@ -1,467 +1,523 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="CyberCracker27 Cybersecurity Header">
+<img src="./assets/header.svg" width="100%" alt="CyberCracker27">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=CYBERSECURITY+%2F%2F+ETHICAL+HACKING;CTF+PLAYER+%2F%2F+SECURITY+RESEARCH;BREAK+%E2%80%A2+ANALYZE+%E2%80%A2+BUILD+%E2%80%A2+SECURE;SYSTEM+STATUS%3A+ONLINE" alt="Typing Animation">
+CYBERSECURITY • DEVELOPMENT • RESEARCH
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=CyberCracker27&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS">
+<img src="./assets/animated-divider.svg" width="90%" alt="Animated divider">
 
 </div>
-
----
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                 CYBERCRACKER27 // TERMINAL                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   CONNECTION       : ESTABLISHED                            ║
-║   NODE              : GITHUB                                ║
-║   SECURITY STATUS   : ● ONLINE                              ║
-║   THREAT LEVEL      : LOW                                   ║
-║   MODE              : LEARNING / BUILDING / BREAKING        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
 
-</div>
+<td width="65%" valign="top">
 
-## `> whoami`
+HELLO, I'M
 
-```bash
-root@CyberCracker27:~$ whoami
+CYBERCRACKER27
+
+Cybersecurity Enthusiast & Developer
+
+Ethical Hacking • CTF • Security Research • Security Engineering
+
+Building security-focused systems, exploring offensive techniques,
+and turning what I learn into practical projects.
+
+Currently: Learning · Building · Researching
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+ • 
+<a href="YOUR_TRYHACKME_URL">TryHackMe</a>
+ • 
+<a href="YOUR_LEETCODE_URL">LeetCode</a>
+
+</td>
+
+<td width="35%" valign="top">
+
+PROFILE
+
+
+
+
+
+Name
+
+CyberCracker27
+
+Role
 
 Cybersecurity Student
-Ethical Hacker
-CTF Player
-Security Researcher
-Developer
-```
 
-I'm a **B.E. Computer Science & Engineering (Cyber Security)** student focused on understanding how systems fail, how attackers exploit them, and how to build better defenses.
+Focus
 
-```bash
-root@CyberCracker27:~$ cat objective.txt
+Security Engineering
 
-[+] Learn offensive security
-[+] Build practical cybersecurity tools
-[+] Solve security problems
-[+] Participate in CTFs
-[+] Research attack techniques
-[+] Build secure systems
-[+] Keep improving
-```
+Specialization
 
-> **Break it. Understand it. Secure it.**
+Cyber Security
 
----
+Status
 
-## `> security_arsenal`
+🟢 Active
 
-<div align="center">
+Location
 
-### ⚔️ OFFENSIVE SECURITY
+India
 
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41">
-<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
-<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7">
-<img src="https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41">
-<img src="https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&logo=linux&logoColor=00FF41">
-<img src="https://img.shields.io/badge/Scapy-0D1117?style=for-the-badge&logo=python&logoColor=3776AB">
+CURRENT FOCUS
 
-### 🌐 SECURITY DOMAINS
+Web Security
 
-```text
-WEB SECURITY          █████████████████░░░
-NETWORK SECURITY      ████████████████░░░░
-LINUX SECURITY        ████████████████░░░░
-PENETRATION TESTING   ██████████████░░░░░░
-DIGITAL FORENSICS     █████████████░░░░░░░
-SECURITY AUTOMATION   ███████████████░░░░░
-```
+Penetration Testing
 
-### 💻 DEVELOPMENT
+Network Security
 
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,flask,fastapi,spring,react,docker,git,github,linux&theme=dark" alt="Technology Stack">
+Digital Forensics
+
+Security Automation
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
-
-## `> system_status`
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                  SYSTEM MONITOR                     ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  CYBERSECURITY        ● ACTIVE                       ║
-║  PROJECT LAB          ● ACTIVE                       ║
-║  CTF TRAINING         ● ACTIVE                       ║
-║  DSA / PROBLEM SOLVING ● ACTIVE                      ║
-║  SECURITY RESEARCH    ● ACTIVE                       ║
-║                                                      ║
-║  SYSTEM: ONLINE                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-## `> project_lab`
-
-> **Building security-focused systems instead of only studying them.**
-
-### 🔐 SafeLink
-
-**AI-Powered Disaster Intelligence & Emergency Response Platform**
-
-```text
-Citizen
-   │
-   ▼
-Bluetooth / Wi-Fi
-   │
-   ▼
-SafeLink Smart Emergency Node
-   │
-   ▼
-LoRa Mesh Network
-   │
-   ▼
-Gateway
-   │
-   ▼
-AI Intelligence Platform
-   │
-   ▼
-Emergency Control Center
-   │
-   ▼
-Rescue Teams
-```
-
-**Focus:** Edge AI • LoRa • Emergency Communication • GPS • Disaster Intelligence
-
----
-
-### 🕵️ Phishing Detection
-
-A security-focused browser extension designed to identify suspicious and potentially malicious URLs.
-
-**Focus:** URL Analysis • Threat Detection • Web Security
-
----
-
-### 🔎 IoT Forensics Toolkit
-
-A web-based toolkit for collecting and analyzing IoT-related logs and artifacts during security investigations.
-
-**Focus:** Digital Forensics • IoT Security • Log Analysis
-
----
-
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────┐
-│              PROJECT PIPELINE               │
-├─────────────────────────────────────────────┤
-│                                             │
-│  IDEA → THREAT MODEL → BUILD → TEST → FIX  │
-│                         ↑                   │
-│                         └──── BREAK         │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+ACTIVITY MATRIX
 
-</div>
+<table>
+<tr>
 
----
+<td align="center" width="33%">
 
-## `> tryhackme // mission_control`
+⚔️ TRYHACKME
 
 <!-- AUTO:THM:START -->
 
-<div align="center">
+ROOMS
 
-<a href="https://tryhackme.com/">
+AUTO
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME_USERNAME.png" alt="TryHackMe Badge">
+POINTS
 
-</a>
+AUTO
 
-```text
-╔════════════════════════════════════════════════╗
-║          TRYHACKME // MISSION CONTROL         ║
-╠════════════════════════════════════════════════╣
-║                                                ║
-║  RANK          → AUTO                          ║
-║  POINTS        → AUTO                          ║
-║  ROOMS         → AUTO                          ║
-║  STREAK        → AUTO                          ║
-║                                                ║
-║             STATUS: ● ACTIVE                   ║
-╚════════════════════════════════════════════════╝
-```
+STREAK
 
-</div>
+AUTO
+
+RANK
+
+AUTO
 
 <!-- AUTO:THM:END -->
 
----
+</td>
 
-## `> leetcode // code_matrix`
+<td align="center" width="33%">
+
+⚡ LEETCODE
 
 <!-- AUTO:LEETCODE:START -->
 
-<div align="center">
+SOLVED
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Statistics">
+AUTO
 
-```text
-╔════════════════════════════════════════════════╗
-║               ⚡ CODE MATRIX                  ║
-╠════════════════════════════════════════════════╣
-║                                                ║
-║  PROBLEMS SOLVED     → AUTO                    ║
-║  EASY                → AUTO                    ║
-║  MEDIUM              → AUTO                    ║
-║  HARD                → AUTO                    ║
-║  RANK                → AUTO                    ║
-║  STREAK              → AUTO                    ║
-║                                                ║
-║               STATUS: ACTIVE                   ║
-╚════════════════════════════════════════════════╝
-```
+EASY
 
-</div>
+AUTO
+
+MEDIUM
+
+AUTO
+
+HARD
+
+AUTO
 
 <!-- AUTO:LEETCODE:END -->
 
----
+</td>
 
-## `> github // activity_matrix`
+<td align="center" width="33%">
+
+🐙 GITHUB
 
 <!-- AUTO:GITHUB:START -->
 
-<div align="center">
+REPOSITORIES
 
-<img src="https://github-readme-stats.vercel.app/api?username=CyberCracker27&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117" alt="GitHub Statistics">
+AUTO
 
-<br><br>
+COMMITS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCracker27&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117" alt="Top Languages">
+AUTO
 
-<br><br>
+STARS
 
-<img src="https://streak-stats.demolab.com?user=CyberCracker27&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak">
+AUTO
 
-</div>
+CONTRIBUTIONS
+
+AUTO
 
 <!-- AUTO:GITHUB:END -->
 
----
+</td>
 
-## `> ctf // operations`
+</tr>
+</table>
 
-```text
-root@CyberCracker27:~$ ./ctf_status.sh
+</div>
 
-[✓] WEB EXPLOITATION
-[✓] NETWORK ENUMERATION
-[✓] DIGITAL FORENSICS
-[✓] OSINT
-[→] PRIVILEGE ESCALATION
-[→] REVERSE ENGINEERING
-[→] CRYPTOGRAPHY
+01 — SECURITY PROFILE
 
-STATUS: TRAINING...
-```
+<div align="center">
 
-### Areas of Interest
+<table>
+<tr>
 
-```text
+<td width="50%" valign="top">
+
+SECURITY
+
+WEB SECURITY
+██████████████████░░
+
+NETWORK SECURITY
+████████████████░░░░
+
+PENETRATION TESTING
+███████████████░░░░░
+
+DIGITAL FORENSICS
+██████████████░░░░░░
+
+SECURITY AUTOMATION
+████████████████░░░░
+
+</td>
+
+<td width="50%" valign="top">
+
+AREAS
+
 WEB
-├── SQL Injection
-├── XSS
+├── OWASP
+├── Enumeration
 ├── Authentication
-├── Access Control
+├── Injection
 └── API Security
 
 NETWORK
-├── Enumeration
-├── Packet Analysis
+├── TCP/IP
 ├── DNS
-└── Network Security
+├── Packet Analysis
+└── Network Enumeration
 
 SYSTEM
 ├── Linux
-├── Privilege Escalation
-├── Windows Security
-└── System Analysis
+├── Windows
+└── Privilege Escalation
 
-FORENSICS
-├── Log Analysis
-├── Artifact Analysis
-└── Incident Investigation
-```
+</td>
 
----
+</tr>
+</table>
 
-## `> experience`
+</div>
 
-### 🔴 Cybersecurity Intern — Cyfotok Infosec
+02 — TECHNOLOGY STACK
 
-**May 2026**
+<div align="center">
 
-Practical cybersecurity exposure involving security learning, hands-on activities, analysis, and security-oriented problem solving.
+LANGUAGES
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript&theme=dark" alt="Programming languages">
 
-## `> achievements // vault`
+SECURITY & SYSTEMS
 
-```text
-╔══════════════════════════════════════════════╗
-║               ACHIEVEMENT VAULT             ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║   🛡 CYBERSECURITY                           ║
-║   ├── Cisco Cybersecurity Training           ║
-║   ├── Ethical Hacking                        ║
-║   ├── Cybersecurity Foundations              ║
-║   ├── Red Team Training                      ║
-║   └── Security Labs                          ║
-║                                              ║
-║   ⚔ PRACTICAL                               ║
-║   ├── TryHackMe Events                       ║
-║   ├── CTF Challenges                         ║
-║   └── Security Labs                          ║
-║                                              ║
-║   🏆 COMPETITIONS                            ║
-║   ├── Hackathons                             ║
-║   ├── Cybersecurity Events                   ║
-║   └── Technical Competitions                 ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github&theme=dark" alt="Security and systems">
 
----
+DEVELOPMENT
 
-## `> currently_learning`
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,react&theme=dark" alt="Development stack">
 
-```bash
-root@CyberCracker27:~$ ps aux | grep learning
+<br><br>
 
-[RUNNING] Advanced Web Security
-[RUNNING] Penetration Testing
-[RUNNING] Digital Forensics
-[RUNNING] Network Security
-[RUNNING] Linux Security
-[RUNNING] Security Automation
-[RUNNING] Data Structures & Algorithms
-```
+Nmap Burp Suite Wireshark Scapy FFUF Nikto
 
----
+</div>
 
-## `> activity // stream`
+03 — PROJECT LAB
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+🔐 SAFELINK
+
+AI Disaster Intelligence
+
+AI-powered disaster intelligence and emergency response platform.
+
+Stack
+
+Python FastAPI LoRa
+
+Edge AI GPS MQTT
+
+STATUS
+
+🟢 ACTIVE
+
+<br>
+
+<a href="YOUR_SAFELINK_REPOSITORY_URL">VIEW PROJECT →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+🕵️ PHISHING DETECTION
+
+Web Security
+
+Security-focused phishing detection and suspicious URL analysis.
+
+Stack
+
+Python ML
+
+JavaScript Flask
+
+STATUS
+
+🟢 ACTIVE
+
+<br>
+
+<a href="YOUR_PHISHING_REPOSITORY_URL">VIEW PROJECT →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+🔎 IoT FORENSICS
+
+Digital Forensics
+
+Toolkit for collecting and analyzing IoT security artifacts.
+
+Stack
+
+Python Scapy
+
+Forensics Security
+
+STATUS
+
+🟡 BUILDING
+
+<br>
+
+<a href="YOUR_IOT_REPOSITORY_URL">VIEW PROJECT →</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+04 — CYBER ACTIVITY
 
 <!-- AUTO:ACTIVITY:START -->
 
-```text
-╔══════════════════════════════════════════════╗
-║            CYBERCRACKER ACTIVITY            ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🟢 GitHub activity      → ACTIVE            ║
-║  🟢 Security projects    → ACTIVE            ║
-║  🟢 CTF training         → ACTIVE            ║
-║  🟢 Problem solving      → ACTIVE            ║
-║                                              ║
-║             SYSTEM: ONLINE ●                 ║
-╚══════════════════════════════════════════════╝
-```
+<div align="center">
+
+┌─────────────────────────────────────────────────────┐
+│                  RECENT ACTIVITY                    │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  🟢 TryHackMe       → automatically tracked          │
+│  🟢 LeetCode        → automatically tracked          │
+│  🟢 GitHub          → automatically tracked          │
+│  🟢 Projects        → automatically tracked          │
+│                                                     │
+│                  STATUS: ACTIVE                      │
+└─────────────────────────────────────────────────────┘
+
+</div>
 
 <!-- AUTO:ACTIVITY:END -->
 
----
-
-## `> security_philosophy`
+05 — GITHUB ACTIVITY
 
 <div align="center">
 
-```text
-              LEARN
-                │
-                ▼
-             RESEARCH
-                │
-                ▼
-              BUILD
-                │
-                ▼
-              BREAK
-                │
-                ▼
-              ANALYZE
-                │
-                ▼
-               FIX
-                │
-                └──────────────► REPEAT
-```
+<!-- AUTO:GITHUB_GRAPH:START -->
 
-### `Think like an attacker. Build like a defender.`
+<img src="./assets/github-activity.svg" width="100%" alt="GitHub Activity">
+
+<!-- AUTO:GITHUB_GRAPH:END -->
 
 </div>
 
----
-
-## `> connect`
+06 — CTF / SECURITY TRAINING
 
 <div align="center">
 
-<a href="https://github.com/CyberCracker27">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41">
-</a>
+<table>
+<tr>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41">
-</a>
+<td width="50%" valign="top">
 
-<a href="YOUR_TRYHACKME_URL">
-<img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41">
-</a>
+⚔️ OFFENSIVE SECURITY
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF41">
-</a>
+Web Exploitation      ████████████████
+Network Enumeration   ███████████████
+OSINT                 █████████████
+Privilege Escalation  ███████████
+
+</td>
+
+<td width="50%" valign="top">
+
+🧩 SECURITY AREAS
+
+Web Security
+Network Security
+Linux Security
+Digital Forensics
+OSINT
+Security Automation
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
+07 — ACHIEVEMENT VAULT
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                 CONNECTION TERMINATED                     ║
-║                                                            ║
-║       CYBERCRACKER27 // SECURITY TERMINAL                 ║
-║                                                            ║
-║       Learn  •  Break  •  Analyze  •  Secure              ║
-║                                                            ║
-║                 root@CyberCracker27:~$ exit_              ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
 
-<img src="./assets/footer.svg" width="100%" alt="Animated Cybersecurity Footer">
+<td align="center">
+
+🛡️ CYBERSECURITY
+
+Security Training
+
+Cybersecurity Labs
+
+Practical Security Work
+
+</td>
+
+<td align="center">
+
+🏆 HACKATHONS
+
+Hackathon Participation
+
+Technical Competitions
+
+Project Demonstrations
+
+</td>
+
+<td align="center">
+
+⚔️ CTF
+
+TryHackMe
+
+Security Challenges
+
+Practical Labs
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+08 — CURRENTLY LEARNING
+
+<div align="center">
+
+                    LEARNING PATH
+
+                 ┌─────────────────┐
+                 │  CYBERSECURITY  │
+                 └────────┬────────┘
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+     WEB SECURITY     NETWORKING       FORENSICS
+          │               │               │
+          └───────────────┼───────────────┘
+                          ▼
+                  SECURITY AUTOMATION
+                          │
+                          ▼
+                    BUILD PROJECTS
+
+</div>
+
+09 — SECURITY PHILOSOPHY
+
+<div align="center">
+
+LEARN → BUILD → BREAK → ANALYZE → SECURE
+
+Think like an attacker.
+Build like a defender.
+
+</div>
+
+10 — CONNECT
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  •  
+<a href="YOUR_TRYHACKME_URL">TryHackMe</a>
+  •  
+<a href="YOUR_LEETCODE_URL">LeetCode</a>
+  •  
+<a href="YOUR_EMAIL_URL">Email</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%" alt="CyberCracker27 Footer">
+
+CYBERCRACKER27
+
+SECURITY • CODE • RESEARCH
 
 </div>
