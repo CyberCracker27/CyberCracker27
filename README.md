@@ -39,10 +39,6 @@
 
 ### tryhackme stats
 
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/CyberCracker27.png" width="450" alt="TryHackMe Badge"/>
-</p>
-
 <table align="center">
 <tr>
 <td align="center"><b>151</b><br/><sub>rooms completed</sub></td>
