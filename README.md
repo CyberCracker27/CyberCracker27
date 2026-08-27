@@ -64,7 +64,7 @@ const gopi = {
 
 #### 🎯 TryHackMe Activity
 <p align="center"> <a href="https://tryhackme.com/p/CyberCracker27" target="_blank"> 
-  <img src="badge.svg" alt="TryHackMe Badge" /> </a> 
+  <img src="badge.png" alt="TryHackMe Badge" /> </a> 
 </p>
 
 #### 💻 LeetCode Analytics

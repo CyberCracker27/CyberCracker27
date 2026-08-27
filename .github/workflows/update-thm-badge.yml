@@ -6,6 +6,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:  # Allows manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   update-badge:
     runs-on: ubuntu-latest
@@ -13,17 +16,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate TryHackMe badge
-        uses: geeekgod/tryhackme-badge-action@v1.0
-        with:
-          username: 'CyberCracker27'          # Replace with your THM username
-          user_id: '6767ff388eeda5e1981e450f'                  # Find this in your profile URL
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download TryHackMe badge
+        run: curl -fsSL "https://tryhackme-badges.s3.amazonaws.com/CyberCracker27.png" -o badge.png
 
       - name: Commit and push badge
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add badge.svg
+          git add badge.png
           git diff --staged --quiet || git commit -m "Update TryHackMe badge"
           git push
