@@ -8,7 +8,6 @@
 
 ### 🛡️ About Me
 
-```javascript
 const gopi = {
   pronouns: "He / Him",
   code: ["Python", "Java", "C", "JavaScript"],
