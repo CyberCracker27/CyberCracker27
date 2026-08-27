@@ -63,29 +63,20 @@ const gopi = {
 </p>
 
 #### 🎯 TryHackMe Activity
-<p align="center">  
-  <a href="https://tryhackme.com/p/CyberCracker27" target="_blank">  
-    <img src="[link removed]" alt="TryHackMe Badge" />  
-  </a>  
+<p align="center"> <a href="https://tryhackme.com/p/CyberCracker27" target="_blank"> 
+  <img src="badge.svg" alt="TryHackMe Badge" /> </a> 
 </p>
 
 #### 💻 LeetCode Analytics
-<p align="center">  
-  <img src="[link removed]" alt="LeetCode Stats" />  
-</p>
-
+<p align="center"> <a href="https://leetcode.com/u/CyberCracker27/" target="_blank"> 
+  <img src="https://leetcard.jacoblin.cool/CyberCracker27?theme=dark&font=baloo_2" alt="LeetCode Stats" /> </a> </p>
 ---
 
 ### 🌐 Connect With Me
 
-<p align="left">  
-  <a href="https://www.linkedin.com/in/gopikrishnans07" target="_blank">  
-    <img src="[link removed]" alt="LinkedIn" />  
-  </a>  
-  <a href="[link removed]" target="_blank">  
-    <img src="[link removed]" alt="Portfolio" />  
-  </a>  
-  <a href="mailto:gopikrishnan2734@gmail.com">  
-    <img src="[link removed]" alt="Email" />  
-  </a>  
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/gopikrishnans07" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://tryhackme.com/p/CyberCracker27" target="_blank"> 
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /> </a> <a href="https://leetcode.com/u/CyberCracker27/" target="_blank"> 
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="mailto:gopikrishnan2734@gmail.com"> 
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> 
+</p> 
