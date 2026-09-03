@@ -9,7 +9,7 @@
 ### 🛡️ About Me
 
 ```javascript
-const gopi = {
+const Gopkrishnan = {
   pronouns: "He / Him",
   code: ["Python", "Java", "C", "JavaScript"],
   cybersecurity: ["VAPT", "Network Security", "Web Security", "Pentesting"],
